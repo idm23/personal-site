@@ -1,47 +1,50 @@
 // TODO Add a couple lines about each project
 const data = [
   {
-    title: 'Nearest Dollar',
-    subtitle: '2015 BVP Hackathon',
-    image: '/images/projects/nearestdollar.jpg',
-    date: '2015-11-20',
+    title: 'Multi-Scale, Super-Resolution Remote Imaging via Deep Conditional Normalizing Flows',
+    subtitle: '',
+    link: 'https://arc.aiaa.org/doi/10.2514/6.2022-2499',
+    image: '/images/projects/NF_Sample.png',
+    date: '2021-12-29',
     desc:
-      'Built for a social impact hackathon. '
-      + 'NearestDollar connected to your bank accounts, credit cards, '
-      + 'or debit cards and rounded up your purchases to donate the balance to '
-      + 'the charity of your choice.',
+      'Lunar super-resolution via normalizing flows '
+      + 'to improve feature detection while maintaining '
+      + 'uncertainty quantification. Leverages conditional '
+      + 'blocks to enable a continuous scale factor.',
   },
   {
-    title: 'Harvest',
-    subtitle: 'Won 3rd. place in 2015 Techcrunch Disrupt SF Hackathon',
-    link: 'https://devpost.com/software/harvest',
-    image: '/images/projects/harvest.jpg',
-    date: '2015-09-20',
+    title: 'Online Shape Modeling of Resident Space Objects Through Implicit Scene Understanding',
+    subtitle: '',
+    link: 'https://arc.aiaa.org/doi/10.2514/1.I011014',
+    image: '/images/projects/GQN_Sample.png',
+    date: '2021-11-27',
     desc:
-      'Won ~ $7000 in prizes for an advanced, low cost monitoring solution '
-      + 'for crops. Harvest was designed to catch irrigation leaks, overwatering, '
-      + 'and nutrient deficiencies at an affordable price for the developing world.',
+      'End-to-end pipeline for resident space object '
+      + 'shape modeling. Specifically responsible for the '
+      + 'generative query network used for implicit scene understanding.',
   },
   {
-    title: 'Space Potato',
-    subtitle: 'A kickstarter funded potato powered weather balloon.',
-    link: 'http://www.spacepotato.org',
-    image: '/images/projects/spacepotato.jpg',
-    date: '2015-06-28',
+    title: 'Medical Image Landmark Localization',
+    subtitle: '',
+    link: 'https://www.ece.cornell.edu/spotlights/2022-meng-poster-session-winners',
+    image: '/images/projects/Med_Sample.png',
+    date: '2022-05-11',
     desc:
-      'Launched a potato battery powered weather balloon with two cameras '
-      + 'and gps transponder. Resulting photos were published in a coffee table book. '
-      + 'You can email me for a copy.',
+      'Evaluated three different methods of identifying common medical '
+      + 'landmarks in chest CT scans. Personally responsible for encoder network '
+      + 'using elastic graph deformation to register landmarks similarly to '
+      + 'how facial recognition is commonly acheived.',
   },
   {
-    title: 'Cat Detector',
-    subtitle: 'A convolutional neural network to classify cats! (and dogs)',
-    image: '/images/projects/catdetector.jpg',
-    date: '2015-05-15',
+    title: 'Automated Portfolio Optimization',
+    subtitle: '',
+    image: '/images/projects/Stockbot_Sample.png',
+    date: '2023-01-25',
     desc:
-      'Trained a convolutional neural network to classify between ~ 80 cats breeds. '
-      + 'Over 60,000 cats were classified before server bills made the project too expensive '
-      + 'to continue hosting.',
+      'Implemented a cuda-enabled gym-like environment and proximal policy optimization '
+      + 'variant to balance a portfolio given only three years of historical data. '
+      + 'Currently working towards multi-task and continual learning approach '
+      + 'to generalize current results.',
   },
 ];
 
