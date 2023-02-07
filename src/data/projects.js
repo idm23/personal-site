@@ -38,7 +38,7 @@ const data = [
   {
     title: 'Automated Portfolio Optimization',
     subtitle: '',
-    image: '/images/projects/Stockbot_Sample.png',
+    image: '/images/projects/StockBot_Sample.png',
     date: '2023-01-25',
     desc:
       'Implemented a cuda-enabled gym-like environment and proximal policy optimization '
