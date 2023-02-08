@@ -1,7 +1,7 @@
 const athleticCards = [
   {
     title: 'Post Swimming Retirement',
-    image: '/images/marathon.jpg',
+    image: '/images/marathon.JPG',
     date: '2023-01-15',
     desc:
       'Since finishing my swimming career (for now), '
@@ -26,7 +26,7 @@ const athleticCards = [
   },
   {
     title: 'Made Canadian Olympic Trials',
-    image: '/images/make_ots.jpg',
+    image: '/images/make_ots.JPG',
     date: '2020-04-11',
     desc:
       'Back in my sophomore year I was a man on a mission. '
@@ -39,7 +39,7 @@ const athleticCards = [
   {
     title: 'Acheived a longterm goal',
     date: '2019-07-25',
-    image: '/images/record.jpg',
+    image: '/images/record.JPG',
     desc:
       'MSCL is the local summer swim league where I grew up '
       + 'and happens to be deceptively competitive. '

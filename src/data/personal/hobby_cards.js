@@ -1,7 +1,7 @@
 const hobbyCards = [
   {
     title: 'Cooking Faceoff',
-    image: '/images/cook_challenge.jpg',
+    image: '/images/cook_challenge.JPG',
     date: '2023-01-15',
     desc:
       'My buddy Pierson and I cooked together nearly every day '
@@ -13,7 +13,7 @@ const hobbyCards = [
   },
   {
     title: 'Thanksgiving',
-    image: '/images/thanksgiving.jpg',
+    image: '/images/thanksgiving.JPG',
     date: '2022-05-27',
     desc:
       'This actually wasn\'t the first time Pierson and I cooked '
