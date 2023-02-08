@@ -49,6 +49,7 @@
 	@import 'components/table';
 	@import 'components/hamburger';
 	@import 'components/markdown';
+	
 
 
 // Layout.
@@ -60,9 +61,11 @@
 	@import 'layout/intro';
 	@import 'layout/footer';
 	@import 'layout/menu';
+	@import 'layout/scrolling-wrapper';
 
 	@import 'pages/contact';
 	@import 'pages/notFound';
 	@import 'pages/resume';
 	@import 'pages/skills';
 	@import 'pages/stats';
+	@import 'pages/personal';

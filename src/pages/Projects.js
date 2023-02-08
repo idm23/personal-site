@@ -9,7 +9,7 @@ import data from '../data/projects';
 const Projects = () => (
   <Main
     title="Projects"
-    description="Learn about Michael D'Angelo's projects."
+    description="Learn about Ian Mackey's projects."
   >
     <article className="post" id="projects">
       <header>
@@ -18,12 +18,14 @@ const Projects = () => (
           <p>A selection of projects emblematic of my work</p>
         </div>
       </header>
-      {data.map((project) => (
-        <Cell
-          data={project}
-          key={project.title}
-        />
-      ))}
+      <section>
+        {data.map((project) => (
+          <Cell
+            data={project}
+            key={project.title}
+          />
+        ))}
+      </section>
     </article>
   </Main>
 );
