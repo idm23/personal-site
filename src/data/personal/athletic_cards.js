@@ -9,9 +9,7 @@ const athleticCards = [
       + 'fitness through running and lifting. I set myself some '
       + 'fun lifting goals, and recently went to my highschool '
       + 'track to run a marathon. Soon I\'d like to get back to '
-      + 'lifting and complete and Ironman by the end of the year. '
-      + 'Needless to say, finding a '
-      + 'balance in a post-competitive world is likely going to take some time.',
+      + 'lifting and complete and Ironman by the end of the year.',
   },
   {
     title: 'Completed College Swimming',
