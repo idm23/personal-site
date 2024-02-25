@@ -14,8 +14,8 @@ const SideBar = () => (
       <header>
         <h2>Ian Mackey</h2>
         <p>
-          Recent M.Eng. graduate.
-          <br />Machine Learning Engineer.
+          Machine Learning Engineer
+          <br />at <a href="https://www.morpheus.space/">Morpheus Space</a>
         </p>
         <ul className="actions">
           <li>
@@ -28,7 +28,7 @@ const SideBar = () => (
     <section className="blurb">
       <h2>Contact</h2>
       <p>
-        Email: <a href="mailto:idm23@cornell.edu">idm23@cornell.edu</a>
+        Email: <a href="mailto:idm23@cornell.edu">idm@ianmackey.net</a>
         <br />Phone: (301)-655-9344
       </p>
     </section>
