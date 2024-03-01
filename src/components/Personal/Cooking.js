@@ -1,13 +1,13 @@
 import React from 'react';
 
-import cards from '../../data/personal/hobby_cards';
+import cards from '../../data/personal/cooking_cards';
 import Card from './Card';
 
-const Hobbies = () => (
-  <div className="hobbies">
-    <div className="link-to" id="hobbies" />
+const Cooking = () => (
+  <div className="cooking">
+    <div className="link-to" id="cooking" />
     <div className="title">
-      <h3>Hobbies</h3>
+      <h3>Cooking</h3>
       <div className="app">
         <div className="hs full no-scrollbar">
           {cards.map((project) => (
@@ -30,4 +30,4 @@ const Hobbies = () => (
   </div>
 );
 
-export default Hobbies;
+export default Cooking;

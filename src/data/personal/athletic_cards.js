@@ -1,5 +1,18 @@
 const athleticCards = [
   {
+    title: 'Beach-Mountain-Desert',
+    image: '/images/ski_lights.JPG',
+    date: '2024-02-22',
+    desc:
+      'After finally adjusting to the working world'
+      + ' my brother was kind enough to plan a trip out'
+      + ' to my new place in California. In a single week,'
+      + ' we spent time at the beach, went skiing in the San'
+      + ' Bernadino mountains (Big Bear), and hiked all over'
+      + ' Joshua Tree national park. The west coast certainly'
+      + ' has its perks!',
+  },
+  {
     title: 'Post Swimming Retirement',
     image: '/images/marathon.JPG',
     date: '2023-01-15',

@@ -4,7 +4,8 @@ import { Link } from 'react-router-dom';
 import Main from '../layouts/Main';
 
 import Athletics from '../components/Personal/Athletics';
-import Hobbies from '../components/Personal/Hobbies';
+import Cooking from '../components/Personal/Cooking';
+import Wines from '../components/Personal/Wines';
 // import Hobbies from '../components/Personal/Hobbies';
 
 // import activities from '../data/personal/activities';
@@ -12,7 +13,8 @@ import Hobbies from '../components/Personal/Hobbies';
 
 const sections = [
   'Athletics',
-  'Hobbies',
+  'Cooking',
+  'Wines',
 ];
 
 const Personal = () => (
@@ -33,7 +35,8 @@ const Personal = () => (
         </div>
       </header>
       <Athletics />
-      <Hobbies />
+      <Cooking />
+      <Wines />
     </article>
   </Main>
 );

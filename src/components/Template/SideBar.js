@@ -15,7 +15,7 @@ const SideBar = () => (
         <h2>Ian Mackey</h2>
         <p>
           Machine Learning Engineer
-          <br />at <a href="https://www.morpheus.space/">Morpheus Space</a>
+          <br />at <a href="https://www.morpheus.space/">Morpheus Space</a>.
         </p>
         <ul className="actions">
           <li>

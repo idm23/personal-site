@@ -1,4 +1,4 @@
-const hobbyCards = [
+const cookingCards = [
   {
     title: 'Cooking Faceoff',
     image: '/images/cook_challenge.JPG',
@@ -24,4 +24,4 @@ const hobbyCards = [
   },
 ];
 
-export default hobbyCards;
+export default cookingCards;
