@@ -6,10 +6,6 @@ import Main from '../layouts/Main';
 import Athletics from '../components/Personal/Athletics';
 import Cooking from '../components/Personal/Cooking';
 import Wines from '../components/Personal/Wines';
-// import Hobbies from '../components/Personal/Hobbies';
-
-// import activities from '../data/personal/activities';
-// import degrees from '../data/resume/degrees';
 
 const sections = [
   'Athletics',

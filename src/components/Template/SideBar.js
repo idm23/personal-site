@@ -30,6 +30,7 @@ const SideBar = () => (
       <p>
         Email: <a href="mailto:idm23@cornell.edu">idm@ianmackey.net</a>
         <br />Phone: (301)-655-9344
+        <br />Github: <a href="https://github.com/idm23">idm23</a>
       </p>
     </section>
 

@@ -14,12 +14,25 @@ const Index = () => (
         </div>
       </header>
       <p>
-        Hi, my name is Ian and I&apos;m a recent M.Eng graduate from
-        <a href="https://www.ece.cornell.edu/ece"> Cornell&apos;s department of Electrical and Computer Engineering</a>
+        Hi, my name is Ian and I currently work
+        for <a href="https://www.morpheus.space/">Morpheus Space</a> as
+        a Machine Learning Engineer. Day to day, I work on developing
+        software to accelerate the process of designing satellite missions
+        with an emphasis on satellite mobility.
+        We&apos;re building a platform
+        called <a href="https://www.journey.morpheus.space/signin">Journey</a> to
+        save users time simulating their missions
+        and money through both
+        optimized maneuvering and
+        informed selections of satellite subsystems.
+        <br />
+        <br />
+        Before my time at Morpheus, I completed both my Bachelors and Masters of Engineering
+        from <a href="https://www.ece.cornell.edu/ece"> Cornell&apos;s department of Electrical and Computer Engineering</a>
         . During my time at Cornell, my studies were focused on Signal
         Processing, Software Engineering, and Machine Learning, specifically Computer Vision.
-        Outside of my studies, I was a sprinter for
-        <a href="https://cornellbigred.com/sports/mens-swimming-and-diving"> Cornell Men&apos;s Swim and Dive team</a>
+        Outside of the classroom, I was a sprinter for
+        <a href="https://cornellbigred.com/sports/mens-swimming-and-diving"> Cornell&apos;s Mens Swim and Dive team</a>
         , a member of the
         <a href="https://www.spacecraftresearch.com/"> Space Systems Design Studio</a>
         , and TA&apos;d the Signal Processing series of classes when time permitted.
